@@ -2,9 +2,7 @@ import cv2  # 导入OpenCV库
 import mediapipe as mp  # 导入Mediapipe库
 import time  # 导入time库，用于计时
 import math  # 导入math库，用于数学运算
-
 # -*- coding: utf-8 -*-
-
 class handDetector():
     def __init__(self, mode=False, maxHands=2, detectionCon=0.8, trackCon=0.8):
         self.mode = mode  # 是否进行跟踪模式
