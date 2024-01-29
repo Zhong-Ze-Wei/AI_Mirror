@@ -8,7 +8,6 @@ import keep_sport
 import time
 import pymysql
 import cv2
-
 # 建立数据库连接
 conn = pymysql.connect(
     host='localhost',
