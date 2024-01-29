@@ -8,7 +8,6 @@ import numpy as np
 import time
 import os
 import keep_sport as ks
-
 def videos():
     ##############################参数设置：##############################################
     # 路径参数
