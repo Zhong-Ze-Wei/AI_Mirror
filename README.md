@@ -8,6 +8,6 @@
 ### 整体框架图
 ![image](https://github.com/Zhong-Ze-Wei/AI_Mirror/assets/79208991/75d9550a-8a0f-4406-aeb0-2ed540f85d82)
  
-## 项目为毕业设计，欢迎各位完善。
+## 项目为毕业设计，欢迎各位fork or star。
 ### 项目所需环境请看requirement.txt，所需数据内容请自行添加修改，原文中的data文件都是自己拍摄的视频，不予以分享。注意，数据需要通过tool进行标准化后才可以使用，如果觉得麻烦可以重构这部分代码。原data目录结构如下：
 ![image](https://github.com/Zhong-Ze-Wei/AI_Mirror/assets/79208991/bc0359b5-2695-4aaf-917e-ea6794d9bd10)
