@@ -5,7 +5,6 @@ model为使用的模式，上下或左右
 刚刚进入时不会开始运动，而是先进行调节，双手合十才开始运动
 """
 
-
 import cv2
 import mediapipe as mp
 import math
